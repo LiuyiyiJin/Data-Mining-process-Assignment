@@ -1,0 +1,9 @@
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+*.pyc
+kaggle.json
+CRISP-DM/data/*.csv
+KDD/data/*.csv
+SEMMA/data/*.csv
+*.zip
