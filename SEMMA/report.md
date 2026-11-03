@@ -15,3 +15,5 @@ The selected variables are standardized before K-Means. Candidate values of `k` 
 ## Assess
 
 Each cluster is profiled with count, mean age, income, and spending score. Recommendations are phrased as hypotheses for testing, not as guaranteed customer behavior. Stability across seeds and limitations are documented.
+
+The executed run selected `k=5` by the highest silhouette score among candidates from 2 through 8. The segment table and plot are saved in `artifacts/customer_segments.csv` and `artifacts/customer_segments.png`; the model-selection table is `artifacts/k_selection_scores.csv`.

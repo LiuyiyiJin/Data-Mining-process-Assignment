@@ -16,6 +16,8 @@ Amount and time are standardized. A class-weighted logistic regression provides 
 
 The deliverable is an investigation queue, not an automatic account action. Threshold selection should reflect analyst capacity and the relative cost of missed fraud versus false alarms.
 
+The executed baseline produced PR-AUC 0.703857 for logistic regression and 0.848219 for random forest. The class-balance figure in `artifacts/class_imbalance.png` uses a logarithmic y-axis because only 492 of 284,807 transactions are fraud cases.
+
 ## Limitations
 
 Anonymized variables limit domain explanation. Historical labels may be delayed or incomplete, and temporal drift may make a random split optimistic. A production system should use time-based validation and drift monitoring.
