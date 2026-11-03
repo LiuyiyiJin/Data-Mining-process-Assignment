@@ -8,6 +8,14 @@ This repository contains three reproducible data-science projects implemented wi
 | KDD | Credit Card Fraud Detection | Imbalanced classification | [Credit Card Fraud Detection on Kaggle](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud) |
 | SEMMA | Mall Customer Segmentation | Unsupervised clustering | [Mall Customer Segmentation Data on Kaggle](https://www.kaggle.com/datasets/shwetabh123/mall-customers) |
 
+## Open in Google Colab
+
+- [CRISP-DM — Telecom Customer Churn](https://colab.research.google.com/github/LiuyiyiJin/Data-Mining-process-Assignment/blob/master/CRISP-DM/crisp_dm_project.ipynb)
+- [KDD — Credit Card Fraud Detection](https://colab.research.google.com/github/LiuyiyiJin/Data-Mining-process-Assignment/blob/master/KDD/kdd_project.ipynb)
+- [SEMMA — Mall Customer Segmentation](https://colab.research.google.com/github/LiuyiyiJin/Data-Mining-process-Assignment/blob/master/SEMMA/semma_project.ipynb)
+
+Before running in Colab, upload the relevant CSV into the project's `data/` directory as documented in `data/README.md`. Raw datasets are excluded from GitHub to avoid committing large files.
+
 ## Repository map
 
 - `CRISP-DM/` — business-to-deployment workflow for churn prediction.
