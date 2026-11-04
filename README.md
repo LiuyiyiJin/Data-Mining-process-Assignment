@@ -8,6 +8,14 @@ This repository contains three reproducible data-science projects implemented wi
 | KDD | Credit Card Fraud Detection | Imbalanced classification | [Credit Card Fraud Detection on Kaggle](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud) |
 | SEMMA | Mall Customer Segmentation | Unsupervised clustering | [Mall Customer Segmentation Data on Kaggle](https://www.kaggle.com/datasets/shwetabh123/mall-customers) |
 
+## Medium articles
+
+These project articles are published as unlisted stories on Medium and can be read through the links below.
+
+- [CRISP-DM — From Business Question to Retention Queue](https://medium.com/p/b1f56b4e2bd3)
+- [KDD — Credit-Card Fraud: From Selection to Actionable Investigation](https://medium.com/p/b8e3f5852888)
+- [SEMMA — Customer Segmentation with K-Means](https://medium.com/p/47372649a12e)
+
 ## Open in Google Colab
 
 - [CRISP-DM — Telecom Customer Churn](https://colab.research.google.com/github/LiuyiyiJin/Data-Mining-process-Assignment/blob/master/CRISP-DM/crisp_dm_project.ipynb)
@@ -44,4 +52,4 @@ The notebooks include assertions, fixed random seeds, explicit evaluation metric
 
 ## Status
 
-This is a structured, reproducible submission baseline. Reports, figures, Medium articles, and walkthrough videos can be expanded after the initial GitHub link submission.
+The repository includes executed notebooks, reports, figures, Colab execution screenshots, and links to the three published Medium articles. Walkthrough video links will be added when available.
