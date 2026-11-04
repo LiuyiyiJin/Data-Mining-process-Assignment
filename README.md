@@ -16,6 +16,14 @@ This repository contains three reproducible data-science projects implemented wi
 
 Before running in Colab, upload the relevant CSV into the project's `data/` directory as documented in `data/README.md`. Raw datasets are excluded from GitHub to avoid committing large files.
 
+## Execution screenshots
+
+Screenshots captured from the executed Colab notebooks are organized by methodology:
+
+- `screenshots/CRISP-DM/` — data understanding and model evaluation.
+- `screenshots/KDD/` — data preview, class distribution, and model evaluation.
+- `screenshots/SEMMA/` — data preview, exploration, k-selection, and final clusters.
+
 ## Repository map
 
 - `CRISP-DM/` — business-to-deployment workflow for churn prediction.
